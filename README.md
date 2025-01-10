@@ -1,6 +1,6 @@
-# ChatGPT中文版国内使用最新指南（支持GPT-4、4o 和 o1，无需翻墙）【2025/01/10】
+# ChatGPT中文版国内使用最新指南（支持GPT-4、4o 和 o1，无需翻墙）【2025/01/11】
 
-> 作者: chatgpt-chinese &emsp;&emsp; 更新日期: 2025/01/10  
+> 作者: chatgpt-chinese &emsp;&emsp; 更新日期: 2025/01/11
 
 想在国内使用ChatGPT？我们精心整理了当前可用的 **ChatGPT 中文版镜像网站**，无需翻墙即可轻松访问。
 
