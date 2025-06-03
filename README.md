@@ -1,7 +1,7 @@
-# ChatGPT中文版国内使用最新指南（支持GPT-4、4o 和 o1，无需翻墙）【5月最新更新】
+# ChatGPT中文版国内使用最新指南（支持GPT-4、4o 和 o1，无需翻墙）【6月最新更新】
 
 > 作者: chatgpt-chinese   
-> 更新：2025/05/21   
+> 更新：2025/06/04   
 
 想在国内使用ChatGPT？我们精心整理了当前可用的 **ChatGPT 中文版镜像网站**，无需翻墙即可轻松访问。
 
@@ -71,8 +71,8 @@ ChatGPT镜像网站为国内用户提供了一种便捷无需翻墙就能访问C
    - 提供部分免费额度，一些功能可能需付费。
 
 4. **哪些适合新手？**
-   - **一下AI ([www.yixiaai.com](https://chat.yixiaai.com/))** 适合新手
-   - **AI智慧岛 ([chat.lify.vip](https://www.yixiaai.com/))** 适合高需求用户。
+   - **一下AI ([www.yixiaai.com](https://chat.lanjing.pro/))** 适合新手
+   - **AI智慧岛 ([chat.lify.vip](https://xsimplechat.com/))** 适合高需求用户。
 
 ---
 
